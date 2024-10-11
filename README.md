@@ -1,30 +1,26 @@
 
 <img src="/src/sievush.png" alt="Hi there! I'm Sievush Pak" title="Hi there! I'm Sievush Pak"/>
-<div align="justify">
+<div style="display: flex; justify-content: space-between;">
     <a href="https://www.instagram.com/seva_krot/" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="#" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://vk.com/pak_s" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Вконтакте-%231DA1F2.svg?style=for-the-badge&logo=vk&logoColor=white">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="#" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://t.me/Semen12345" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://gitlab.com/last-dragon" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
     </a>
 </div>
+
 <p></p>
 
 Привет! Меня зовут **Пak Cиёвyш**, и добро пожаловать на мою страницу GitHub. Я Fullstack QA инженер с опытом в автоматизации, нагрузочном тестировании, разработке тестового ПО и веб-приложений. С 2006 года я работаю в мире веб-разработки, освоив множество языков программирования и технологий. Также я обучаю других, делясь своим опытом и знаниями.
@@ -33,7 +29,7 @@
 
 > Инструменты и технологии, с которыми я работал и которые мне интересны
 
-<table>
+<table align="center" style="width: 100%; table-layout: fixed;">
   <tr>
     <td align="center">
         <img src="/src/icons/restapi-icon.svg" width="65" height="65" alt="Rest API" />
