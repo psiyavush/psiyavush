@@ -3,19 +3,19 @@
 <p align="center">
     <a href="https://www.instagram.com/seva_krot/">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="#">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://vk.com/pak_s">
         <img src="https://img.shields.io/badge/Вконтакте-%231DA1F2.svg?style=for-the-badge&logo=vk&logoColor=white" alt="Вконтакте" />
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="#">
         <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin" />
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://t.me/Semen12345">
         <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://gitlab.com/last-dragon">
         <img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
     </a>
@@ -220,6 +220,10 @@
     <td align="center">
         <img src="/src/icons/RobloxStudio.svg" width="48" height="48" alt="RobloxStudio" />
         <br>RobloxStudio
+    </td>
+    <td align="center">
+        <img src="/src/icons/HTML.svg" width="48" height="48" alt="HTML" />
+        <br>HTML
     </td>
   </tr>
 </table>
