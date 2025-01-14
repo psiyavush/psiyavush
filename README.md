@@ -4,7 +4,7 @@
     <a href="https://www.instagram.com/seva_krot/">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
     </a>&nbsp;&nbsp;
-    <a href="#">
+    <a href="https://www.youtube.com/@QA-COMPASS">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
     </a>&nbsp;&nbsp;
     <a href="https://vk.com/pak_s">
@@ -21,7 +21,15 @@
     </a>
 </p>
 
-Привет! Меня зовут **Пak Cиёвyш**, и добро пожаловать на мою страницу GitHub. Я Fullstack QA инженер с опытом в автоматизации, нагрузочном тестировании, разработке тестового ПО и веб-приложений. С 2006 года я работаю в мире веб-разработки, освоив множество языков программирования и технологий. Также я обучаю других, делясь своим опытом и знаниями.
+Hello! My name is Siyavush Park, and welcome to my GitHub page. 
+
+Fullstack QA engineer with experience in automation, load testing, test software development, and web applications.
+
+I have been working in the world of web development since 2006.
+
+Since 2023, I have been teaching others, sharing my experience and knowledge.
+
+I also continuously strive to learn and improve.
 
 ## Мои инструменты и технологии ⚙️
 
