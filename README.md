@@ -245,4 +245,4 @@ I also continuously strive to learn and improve.
 
 ## Трофей профиля GitHub 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=psiyavush)](https://github.com/ryo-ma/github-profile-trophy)
