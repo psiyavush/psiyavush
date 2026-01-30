@@ -386,6 +386,6 @@ Beyond commercial work, I develop **QA Compass** — an educational QA project w
 
 ## GitHub statistics 📊
 
-| <a href="https://github.com/psiyavush/github-stats"><img align="center" src="https://github-stats-psiyavushs-projects.vercel.app/api?username=psiyavush&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=ru&rank_icon=github&hide=contribs,issues" alt="psiyavush's github stats" /></a> | <a href="https://github.com/psiyavush/github-stats"><img align="center" src="https://github-stats-psiyavushs-projects.vercel.app/api/top-langs/?username=psiyavush&langs_count=8&layout=compact&theme=buefy&hide_border=true&locale=ru&card_width=400" alt="psiyavush's Top Languages"/></a> |
+| <a href="https://github.com/psiyavush/github-stats"><img align="center" src="https://github-stats-psiyavushs-projects.vercel.app/api?username=psiyavush&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=en&rank_icon=github&hide=contribs,issues" alt="psiyavush's github stats" /></a> | <a href="https://github.com/psiyavush/github-stats"><img align="center" src="https://github-stats-psiyavushs-projects.vercel.app/api/top-langs/?username=psiyavush&langs_count=8&layout=compact&theme=buefy&hide_border=true&locale=en&card_width=400" alt="psiyavush's Top Languages"/></a> |
 | ------------- | -------------
 
