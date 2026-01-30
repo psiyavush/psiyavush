@@ -11,9 +11,9 @@
   ✦ SIEVUSH PΛRK ✦
 </h1>
 
-<h5 align="center" style="margin-top: -10px;">
+<h4 align="center" style="margin-top: -10px;">
   Senior Automation QA Engineer
-</h5>
+</h4>
 
 Hi, I’m **Sievush Park** — a Senior Automation QA Engineer with professional experience in software testing since **2010**. I specialize in test automation and API testing using **Cypress** (JavaScript/Node.js) and **Selenium** (Python), while also having a strong background in manual QA and a solid understanding of frontend/backend architecture.
 
@@ -42,7 +42,7 @@ Beyond commercial work, I develop **QA Compass** — an educational QA project w
 
 **`A selection of tools and technologies I’ve worked with and enjoy using in real projects.`**
 
-#### Languages
+### Languages
 
 <table border="0" cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
@@ -74,7 +74,7 @@ Beyond commercial work, I develop **QA Compass** — an educational QA project w
   </tr>
 </table>
 
-#### Markup & Styling
+### Markup & Styling
 
 <table border="0" cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
@@ -97,7 +97,7 @@ Beyond commercial work, I develop **QA Compass** — an educational QA project w
   </tr>
 </table>
 
-#### Frameworks & Runtimes
+### Frameworks & Runtimes
 
 <table border="0" cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
@@ -151,7 +151,7 @@ Beyond commercial work, I develop **QA Compass** — an educational QA project w
   </tr>
 </table>
 
-#### QA Automation & Testing
+### QA Automation & Testing
 
 <table border="0" cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
@@ -200,7 +200,7 @@ Beyond commercial work, I develop **QA Compass** — an educational QA project w
   </tr>
 </table>
 
-#### Bug Tracking & Test Management
+### Bug Tracking & Test Management
 
 <table border="0" cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
@@ -238,7 +238,7 @@ Beyond commercial work, I develop **QA Compass** — an educational QA project w
 </table>
 
 
-#### DevOps & Version Control
+### DevOps & Version Control
 
 <table border="0" cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
@@ -282,7 +282,7 @@ Beyond commercial work, I develop **QA Compass** — an educational QA project w
   </tr>
 </table>
 
-#### Platforms, Services & Misc
+### Platforms, Services & Misc
 
 <table border="0" cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
