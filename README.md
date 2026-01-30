@@ -64,20 +64,27 @@ Beyond commercial work, I develop **QA Compass** — an educational QA project w
 
 #### Markup & Styling
 
-<div>
-    <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
-        <img src="/src/icons/HTML.svg" width="48" height="48" alt="HTML" /><br><sub><b>HTML</b></sub>
-    </a>
-    <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
-        <img src="/src/icons/CSS.svg" width="48" height="48" alt="CSS" /><br><sub><b>CSS</b></sub>
-    </a>
-    <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
-        <img src="/src/icons/sass-icon.svg" width="48" height="48" alt="SASS" /><br><sub><b>SASS</b></sub>
-    </a>
-    <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
-        <img src="/src/icons/Markdown-Dark.svg" width="48" height="48" alt="Markdown" /><br><sub><b>Markdown</b></sub>
-    </a>
-</div>
+<table>
+  <tr>
+    <td align="center" width="92">
+      <img src="./src/icons/HTML.svg" width="48" height="48" alt="HTML" /><br />
+      <sub><b>HTML</b></sub>
+    </td>
+    <td align="center" width="92">
+      <img src="./src/icons/CSS.svg" width="48" height="48" alt="CSS" /><br />
+      <sub><b>CSS</b></sub>
+    </td>
+    <td align="center" width="92">
+      <img src="./src/icons/sass-icon.svg" width="48" height="48" alt="SASS" /><br />
+      <sub><b>SASS</b></sub>
+    </td>
+    <td align="center" width="92">
+      <img src="./src/icons/Markdown-Dark.svg" width="48" height="48" alt="Markdown" /><br />
+      <sub><b>Markdown</b></sub>
+    </td>
+  </tr>
+</table>
+
 
 #### Frameworks & Runtimes
 
@@ -167,159 +174,72 @@ Beyond commercial work, I develop **QA Compass** — an educational QA project w
 
 #### DevOps & Version Control
 
-<div style="line-height:0;">
-  <a href="#"
-     style="display:inline-block; width:92px; margin:8px 10px 8px 0; text-align:center; text-decoration:none;">
-    <img src="/src/icons/Wordpress.svg" width="48" height="48" alt="WordPress"
-         style="display:inline-block; vertical-align:middle; border:0;" />
-    <span style="display:block; line-height:1; margin-top:6px;"><sub><b>WordPress</b></sub></span>
-  </a>
-
-  <a href="#"
-     style="display:inline-block; width:92px; margin:8px 10px 8px 0; text-align:center; text-decoration:none;">
-    <img src="/src/icons/bitrix.svg" width="48" height="48" alt="Bitrix"
-         style="display:inline-block; vertical-align:middle; border:0;" />
-    <span style="display:block; line-height:1; margin-top:6px;"><sub><b>Bitrix</b></sub></span>
-  </a>
-
-  <a href="#"
-     style="display:inline-block; width:92px; margin:8px 10px 8px 0; text-align:center; text-decoration:none;">
-    <img src="/src/icons/Figma-Dark.svg" width="48" height="48" alt="Figma"
-         style="display:inline-block; vertical-align:middle; border:0;" />
-    <span style="display:block; line-height:1; margin-top:6px;"><sub><b>Figma</b></sub></span>
-  </a>
-
-  <a href="#"
-     style="display:inline-block; width:92px; margin:8px 10px 8px 0; text-align:center; text-decoration:none;">
-    <img src="/src/icons/Cloudflare-Dark.svg" width="48" height="48" alt="Cloudflare"
-         style="display:inline-block; vertical-align:middle; border:0;" />
-    <span style="display:block; line-height:1; margin-top:6px;"><sub><b>Cloudflare</b></sub></span>
-  </a>
-
-  <a href="#"
-     style="display:inline-block; width:92px; margin:8px 10px 8px 0; text-align:center; text-decoration:none;">
-    <img src="/src/icons/Firebase-Dark.svg" width="48" height="48" alt="Firebase"
-         style="display:inline-block; vertical-align:middle; border:0;" />
-    <span style="display:block; line-height:1; margin-top:6px;"><sub><b>Firebase</b></sub></span>
-  </a>
-
-  <a href="#"
-     style="display:inline-block; width:92px; margin:8px 10px 8px 0; text-align:center; text-decoration:none;">
-    <img src="/src/icons/RobloxStudio.svg" width="48" height="48" alt="RobloxStudio"
-         style="display:inline-block; vertical-align:middle; border:0;" />
-    <span style="display:block; line-height:1; margin-top:6px;"><sub><b>Roblox</b></sub></span>
-  </a>
-
-  <a href="#"
-     style="display:inline-block; width:92px; margin:8px 10px 8px 0; text-align:center; text-decoration:none;">
-    <img src="/src/icons/Arduino.svg" width="48" height="48" alt="Arduino"
-         style="display:inline-block; vertical-align:middle; border:0;" />
-    <span style="display:block; line-height:1; margin-top:6px;"><sub><b>Arduino</b></sub></span>
-  </a>
-
-  <a href="#"
-     style="display:inline-block; width:92px; margin:8px 10px 8px 0; text-align:center; text-decoration:none;">
-    <img src="/src/icons/Sketchup-Dark.svg" width="48" height="48" alt="Sketchup"
-         style="display:inline-block; vertical-align:middle; border:0;" />
-    <span style="display:block; line-height:1; margin-top:6px;"><sub><b>SketchUp</b></sub></span>
-  </a>
-
-  <a href="#"
-     style="display:inline-block; width:92px; margin:8px 10px 8px 0; text-align:center; text-decoration:none;">
-    <img src="/src/icons/CodePen-Dark.svg" width="48" height="48" alt="CodePen"
-         style="display:inline-block; vertical-align:middle; border:0;" />
-    <span style="display:block; line-height:1; margin-top:6px;"><sub><b>CodePen</b></sub></span>
-  </a>
-
-  <a href="#"
-     style="display:inline-block; width:92px; margin:8px 10px 8px 0; text-align:center; text-decoration:none;">
-    <img src="/src/icons/Replit-Dark.svg" width="48" height="48" alt="Replit"
-         style="display:inline-block; vertical-align:middle; border:0;" />
-    <span style="display:block; line-height:1; margin-top:6px;"><sub><b>Replit</b></sub></span>
-  </a>
-
-  <a href="#"
-     style="display:inline-block; width:92px; margin:8px 10px 8px 0; text-align:center; text-decoration:none;">
-    <img src="/src/icons/grafana.png" width="48" height="48" alt="Grafana"
-         style="display:inline-block; vertical-align:middle; border:0;" />
-    <span style="display:block; line-height:1; margin-top:6px;"><sub><b>Grafana</b></sub></span>
-  </a>
-
-  <a href="#"
-     style="display:inline-block; width:92px; margin:8px 10px 8px 0; text-align:center; text-decoration:none;">
-    <img src="/src/icons/graylog.png" width="48" height="48" alt="Graylog"
-         style="display:inline-block; vertical-align:middle; border:0;" />
-    <span style="display:block; line-height:1; margin-top:6px;"><sub><b>Graylog</b></sub></span>
-  </a>
+<div>
+    <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
+        <img src="/src/icons/docker-icon.svg" width="48" height="48" alt="Docker" /><br><sub><b>Docker</b></sub>
+    </a>
+    <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
+        <img src="/src/icons/Git.svg" width="48" height="48" alt="Git" /><br><sub><b>Git</b></sub>
+    </a>
+    <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
+        <img src="/src/icons/GitLab-Dark.svg" width="48" height="48" alt="GitLab" /><br><sub><b>GitLab</b></sub>
+    </a>
+    <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
+        <img src="/src/icons/Github-Dark.svg" width="48" height="48" alt="GitHub" /><br><sub><b>GitHub</b></sub>
+    </a>
+    <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
+        <img src="/src/icons/Npm-Dark.svg" width="48" height="48" alt="npm" /><br><sub><b>npm</b></sub>
+    </a>
+    <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
+        <img src="/src/icons/Bash-Light.svg" width="48" height="48" alt="Bash" /><br><sub><b>Bash</b></sub>
+    </a>
+    <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
+        <img src="/src/icons/Powershell-Dark.svg" width="48" height="48"
+            alt="PowerShell" /><br><sub><b>P-Shell</b></sub>
+    </a>
 </div>
+
 
 #### Platforms, Services & Misc
 
-<div style="line-height:0;">
-
-  <span style="display:inline-block; width:92px; margin:8px 10px; text-align:center;">
-    <img src="/src/icons/Wordpress.svg" width="48" height="48" alt="WordPress" />
-    <br>
-    <sub><b>WordPress</b></sub>
-  </span>
-  <span style="display:inline-block; width:92px; margin:8px 10px; text-align:center;">
-    <img src="/src/icons/bitrix.svg" width="48" height="48" alt="Bitrix" />
-    <br>
-    <sub><b>Bitrix</b></sub>
-  </span>
-  <span style="display:inline-block; width:92px; margin:8px 10px; text-align:center;">
-    <img src="/src/icons/Figma-Dark.svg" width="48" height="48" alt="Figma" />
-    <br>
-    <sub><b>Figma</b></sub>
-  </span>
-  <span style="display:inline-block; width:92px; margin:8px 10px; text-align:center;">
-    <img src="/src/icons/Cloudflare-Dark.svg" width="48" height="48" alt="Cloudflare" />
-    <br>
-    <sub><b>Cloudflare</b></sub>
-  </span>
-  <span style="display:inline-block; width:92px; margin:8px 10px; text-align:center;">
-    <img src="/src/icons/Firebase-Dark.svg" width="48" height="48" alt="Firebase" />
-    <br>
-    <sub><b>Firebase</b></sub>
-  </span>
-  <span style="display:inline-block; width:92px; margin:8px 10px; text-align:center;">
-    <img src="/src/icons/RobloxStudio.svg" width="48" height="48" alt="RobloxStudio" />
-    <br>
-    <sub><b>Roblox</b></sub>
-  </span>
-  <span style="display:inline-block; width:92px; margin:8px 10px; text-align:center;">
-    <img src="/src/icons/Arduino.svg" width="48" height="48" alt="Arduino" />
-    <br>
-    <sub><b>Arduino</b></sub>
-  </span>
-  <span style="display:inline-block; width:92px; margin:8px 10px; text-align:center;">
-    <img src="/src/icons/Sketchup-Dark.svg" width="48" height="48" alt="Sketchup" />
-    <br>
-    <sub><b>SketchUp</b></sub>
-  </span>
-  <span style="display:inline-block; width:92px; margin:8px 10px; text-align:center;">
-    <img src="/src/icons/CodePen-Dark.svg" width="48" height="48" alt="CodePen" />
-    <br>
-    <sub><b>CodePen</b></sub>
-  </span>
-  <span style="display:inline-block; width:92px; margin:8px 10px; text-align:center;">
-    <img src="/src/icons/Replit-Dark.svg" width="48" height="48" alt="Replit" />
-    <br>
-    <sub><b>Replit</b></sub>
-  </span>
-  <span style="display:inline-block; width:92px; margin:8px 10px; text-align:center;">
-    <img src="/src/icons/grafana.png" width="48" height="48" alt="Grafana" />
-    <br>
-    <sub><b>Grafana</b></sub>
-  </span>
-  <span style="display:inline-block; width:92px; margin:8px 10px; text-align:center;">
-    <img src="/src/icons/graylog.png" width="48" height="48" alt="Graylog" />
-    <br>
-    <sub><b>Graylog</b></sub>
-  </span>
-
+<div>
+  <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
+    <img src="/src/icons/Wordpress.svg" width="48" height="48" alt="WordPress"/><br><sub><b>WordPress</b></sub>
+  </a>
+  <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
+    <img src="/src/icons/bitrix.svg" width="48" height="48" alt="Bitrix"/><br><sub><b>Bitrix</b></sub>
+  </a>
+  <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
+    <img src="/src/icons/Figma-Dark.svg" width="48" height="48" alt="Figma"/><br><sub><b>Figma</b></sub>
+  </a>
+  <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
+    <img src="/src/icons/Cloudflare-Dark.svg" width="48" height="48" alt="Cloudflare"/><br><sub><b>Cloudflare</b></sub>
+  </a>
+  <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
+    <img src="/src/icons/Firebase-Dark.svg" width="48" height="48" alt="Firebase"/><br><sub><b>Firebase</b></sub>
+  </a>
+  <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
+    <img src="/src/icons/RobloxStudio.svg" width="48" height="48" alt="RobloxStudio"/><br><sub><b>Roblox</b></sub>
+  </a>
+  <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
+    <img src="/src/icons/Arduino.svg" width="48" height="48" alt="Arduino"/><br><sub><b>Arduino</b></sub>
+  </a>
+  <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
+    <img src="/src/icons/Sketchup-Dark.svg" width="48" height="48" alt="Sketchup"/><br><sub><b>SketchUp</b></sub>
+  </a>
+  <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
+    <img src="/src/icons/CodePen-Dark.svg" width="48" height="48" alt="CodePen"/><br><sub><b>CodePen</b></sub>
+  </a>
+  <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
+    <img src="/src/icons/Replit-Dark.svg" width="48" height="48" alt="Replit"/><br><sub><b>Replit</b></sub>
+  </a>
+    <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
+    <img src="/src/icons/grafana.png" width="48" height="48" alt="Grafana"/><br><sub><b>Grafana</b></sub>
+  </a>
+  <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
+    <img src="/src/icons/graylog.png" width="48" height="48" alt="Graylog"/><br><sub><b>Graylog</b></sub>
+  </a>
 </div>
-
 
 ----
 
