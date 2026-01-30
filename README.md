@@ -74,7 +74,6 @@ Beyond commercial work, I develop **QA Compass** — an educational QA project w
   </tr>
 </table>
 
-
 #### Markup & Styling
 
 <table border="0" cellspacing="0" cellpadding="0" style="border:none;">
@@ -97,8 +96,6 @@ Beyond commercial work, I develop **QA Compass** — an educational QA project w
     </td>
   </tr>
 </table>
-
-
 
 #### Frameworks & Runtimes
 
@@ -154,7 +151,6 @@ Beyond commercial work, I develop **QA Compass** — an educational QA project w
   </tr>
 </table>
 
-
 #### QA Automation & Testing
 
 <table border="0" cellspacing="0" cellpadding="0" style="border:none;">
@@ -204,7 +200,6 @@ Beyond commercial work, I develop **QA Compass** — an educational QA project w
   </tr>
 </table>
 
-
 #### Bug Tracking & Test Management
 
 <table border="0" cellspacing="0" cellpadding="0" style="border:none;">
@@ -245,31 +240,47 @@ Beyond commercial work, I develop **QA Compass** — an educational QA project w
 
 #### DevOps & Version Control
 
-<div>
-    <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
-        <img src="/src/icons/docker-icon.svg" width="48" height="48" alt="Docker" /><br><sub><b>Docker</b></sub>
-    </a>
-    <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
-        <img src="/src/icons/Git.svg" width="48" height="48" alt="Git" /><br><sub><b>Git</b></sub>
-    </a>
-    <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
-        <img src="/src/icons/GitLab-Dark.svg" width="48" height="48" alt="GitLab" /><br><sub><b>GitLab</b></sub>
-    </a>
-    <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
-        <img src="/src/icons/Github-Dark.svg" width="48" height="48" alt="GitHub" /><br><sub><b>GitHub</b></sub>
-    </a>
-    <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
-        <img src="/src/icons/Npm-Dark.svg" width="48" height="48" alt="npm" /><br><sub><b>npm</b></sub>
-    </a>
-    <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
-        <img src="/src/icons/Bash-Light.svg" width="48" height="48" alt="Bash" /><br><sub><b>Bash</b></sub>
-    </a>
-    <a style="display:inline-block;width:92px;margin:8px 10px 8px 0;text-align:center;">
-        <img src="/src/icons/Powershell-Dark.svg" width="48" height="48"
-            alt="PowerShell" /><br><sub><b>P-Shell</b></sub>
-    </a>
-</div>
-
+<table border="0" cellspacing="0" cellpadding="0" style="border:none;">
+  <tr>
+    <td align="center" width="92" style="border:none; padding:0;">
+      <img src="./src/icons/docker-icon.svg" width="48" height="48" alt="Docker" />
+      <br>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="92" style="border:none; padding:0;">
+      <img src="./src/icons/Git.svg" width="48" height="48" alt="Git" />
+      <br>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="92" style="border:none; padding:0;">
+      <img src="./src/icons/GitLab-Dark.svg" width="48" height="48" alt="GitLab" />
+      <br>
+      <sub><b>GitLab</b></sub>
+    </td>
+    <td align="center" width="92" style="border:none; padding:0;">
+      <img src="./src/icons/Github-Dark.svg" width="48" height="48" alt="GitHub" />
+      <br>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="92" style="border:none; padding:0;">
+      <img src="./src/icons/Npm-Dark.svg" width="48" height="48" alt="npm" />
+      <br>
+      <sub><b>npm</b></sub>
+    </td>
+    <td align="center" width="92" style="border:none; padding:0;">
+      <img src="./src/icons/Bash-Light.svg" width="48" height="48" alt="Bash" />
+      <br>
+      <sub><b>Bash</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="92" style="border:none; padding:0;">
+      <img src="./src/icons/Powershell-Dark.svg" width="48" height="48" alt="PowerShell" />
+      <br>
+      <sub><b>P-Shell</b></sub>
+    </td>
+  </tr>
+</table>
 
 #### Platforms, Services & Misc
 
@@ -340,14 +351,13 @@ Beyond commercial work, I develop **QA Compass** — an educational QA project w
   </tr>
 </table>
 
-
 ----
 
 ## QA COMPASS PROJECT
 
 <div style="line-height:0;">
     <a href="https://github.com/qacompass">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" 
+        <img src="/src/icons/gh.svg" alt="GitHub" 
         style="display:inline-block; vertical-align:middle; border:0;" />
     </a>
     <a href="https://www.youtube.com/@QA-COMPASS" style="text-decoration:none;">
